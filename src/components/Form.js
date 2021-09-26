@@ -21,6 +21,7 @@ function Form(props) {
       </h2>
       <input
         type="text"
+        placeholder="Write a new task..."
         id="new-todo-input"
         className="input input__lg"
         name="text"
